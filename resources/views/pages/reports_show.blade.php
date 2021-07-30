@@ -58,7 +58,7 @@
 				</div>
 			</div>
 
-			<div class="col-lg-4" style="display: none;">
+			<div class="col-lg-4">
 
 				@include('ads.unit_1')
 
