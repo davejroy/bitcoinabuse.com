@@ -53,7 +53,7 @@
 						<p class="lead mb-1">Download Bitcoin Address Risk Report & Attribution Data.</p>
 						<p class="text-muted">Access the same powerful data used by law enforcement to <i>unmask</i> Bitcoin Addresses to reveal the individuals and organizations behind them.</p>
 
-						<a href="https://trace.bitcoinabuse.com?address={{ isset($address) ? $address : "" }}&utm_source=bitcoinabuse&utm_medium=addresspage" class="btn btn-lg btn-primary stretched-link" target=_blank> <i class="fas fa-download"></i> Download PDF</a>
+						<a href="https://trace.bitcoinabuse.com?address={{ isset($address) ? $address : "" }}&utm_source=bitcoinabuse&utm_medium=addresspage" class="btn btn-lg btn-primary stretched-link" target=_blank> <i class="fas fa-download"></i> Buy Now </a>
 					</div>
 				</div>
 			</div>
