@@ -10,7 +10,7 @@
 			</ul>
 		</div>
 		<div class="text-center">
-			<a href="https://trace.bitcoinabuse.com?address={{ isset($address) ? $address : "" }}" class="btn btn-primary stretched-link" target=_blank> <i class="fas fa-download"></i> Download Report</a>
+			<a href="https://trace.bitcoinabuse.com?address={{ isset($address) ? $address : "" }}" class="btn btn-primary stretched-link" target=_blank> <i class="fas fa-download"></i> Buy Now </a>
 		</div>
 	</div>
 </div>
